@@ -70,7 +70,8 @@ void InputMismatchException()
 {
 	try {
 	Scanner sc=new Scanner(System.in);
-	System.out.println("Enter a number: ");
+	S
+	ystem.out.println("Enter a number: ");
 	int number=sc.nextInt();
 	System.out.println("You have entered: "+number);
 	sc.close();
